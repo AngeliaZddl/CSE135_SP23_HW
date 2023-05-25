@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /newtoday
+Disallow: /downloads
+User-Agent: newsbot
+Disallow: /pressreleases

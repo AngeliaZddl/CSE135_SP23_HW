@@ -1,0 +1,209 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CSE 135 HW Lives!</title>
+</head>
+
+<body>
+  <h1>CSE 135 HW1 Lives!</h1>
+  <h2>checkcheck</h2>
+  <script>
+    document.write(`Live @ ${new Date()}`);
+    "changes"
+  </script>
+
+</body>
+
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script src='./collector.js'></script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6W137XNJL2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6W137XNJL2');
+</script>
+<script src="https://cdn.lr-ingest.com/LogRocket.min.js" crossorigin="anonymous"></script>
+<script>window.LogRocket && window.LogRocket.init('z8ppax/cse135');</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSE 135 - Spring 2022</title>
+    <link rel="icon" href="/pikachu.ico" type="image/x-icon">
+    <style>
+      body {
+          font-family: Arial, sans-serif;
+          margin: 0;
+          padding: 0;
+      }
+      h1 {
+          font-size: 48px;
+          margin-top: 50px;
+          margin-bottom: 10px;
+      }
+      h2 {
+          font-size: 24px;
+          margin-top: 0;
+          margin-bottom: 50px;
+      }
+      .container {
+          display: flex;
+          justify-content: space-between;
+          padding: 0 50px;
+      }
+      .team-box {
+          width: 300px;
+          border: 1px solid black;
+          padding: 20px;
+      }
+      .team-box h3 {
+          font-size: 20px;
+          margin-top: 0;
+      }
+      ul {
+          list-style-type: square;
+          padding: 0;
+          margin-top: 10px;
+      }
+      li {
+          margin-bottom: 10px;
+      }
+      .section {
+          margin-bottom: 30px;
+      }
+
+      
+    .list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .list h4 {
+        margin: 0;
+        padding: 10px;
+    }
+
+    .list ol {
+        counter-reset: item;
+        padding: 0;
+        margin: 0;
+    }
+
+    .list li::before {
+        margin-bottom: 10px;
+        padding: 10px;
+        counter-reset: item;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+        <div class="left-content">
+            <h1>CSE 135</h1>
+            <h2>Spring 2022</h2>
+        </div>
+        <div class="team-box">
+            <h3>Team X</h3>
+            <p>A line of description.</p>
+            <ul>
+                <li><a href="members/angelia.html">Angelia Zhang</a></li>
+                <li><a href="members/jinmingzhang.html">Jinming Zhang</a></li>
+                <li><a href="members/wenshengyu.html">Wensheng Yu</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <h3>Homework 1</h3>
+        <ul>
+            <li><a href="hello.php">PHP</a></li>
+            <li>Node</li>
+            <li>Analytics</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h3>Homework 2</h3>
+        <div class="list">
+            <h4>PHP</h4>
+            <ol>
+                <li><a href="/cgi-bin/php-hello-html-world.php">hello-html-world</a></li>
+                <li><a href="/cgi-bin/php-hello-json-world.php">hello-json-world</a></li>
+                <li><a href="/cgi-bin/php-environment.php">environment</a></li>
+                <li><a href="/cgi-bin/php-get-echo.php">get-echo</a></li>
+                <li><a href="/cgi-bin/php-post-echo.php">post-echo</a></li>
+                <li><a href="/cgi-bin/php-general-request-echo.php">general-request-echo</a></li>
+                <!-- <li><a href="/cgi-bin/php-state-demo.php">state-demo</a></li> -->
+                <li><a href="php-cgiform.html">state-demo</a></li>
+            </ol>
+        </div>
+        
+        <div class="list">
+            <h4>Python</h4>
+            <ol>
+                <li><a href="/cgi-bin/py-hello-html-world.py">hello-html-world</a></li>
+                <li><a href="/cgi-bin/py-hello-json-world.py">hello-json-world</a></li>
+                <li><a href="/cgi-bin/py-environment.py">environment</a></li>
+                <li><a href="/cgi-bin/py-get-echo.py">get-echo</a></li>
+                <li><a href="/cgi-bin/py-post-echo.py">post-echo</a></li>
+                <li><a href="/cgi-bin/py-general-request-echo.py">general-request-echo</a></li>
+                <li><a href="/cgi-bin/py-state-demo.py">state-demo</a></li>
+            </ol>
+        </div>
+        <div class="list">
+            <h4>Perl</h4>
+            <ol>
+                <li><a href="/cgi-bin/perl-hello-html-world.pl">hello-html-world</a></li>
+                <li><a href="/cgi-bin/perl-hello-json-world.pl">hello-json-world</a></li>
+                <li><a href="/cgi-bin/perl-env.pl">Environment Variables (Manually)</a></li>
+                <li><a href="/cgi-bin/perl-environment.pl">environment</a></li>
+                <li><a href="/cgi-bin/perl-get-echo.pl">get-echo</a></li>
+                <li><a href="/cgi-bin/perl-post-echo.pl">post-echo</a></li>
+                <li><a href="/cgi-bin/perl-general-request-echo.pl">general-request-echo</a></li>
+                <li><a href="perl-cgiform.html">state-demo</a></li>
+            </ol>
+        </div>
+        <div class="list">
+            <h4>C(build *.c to *.cgi)</h4>
+            <ol>
+                <li><a href="/cgi-bin/c-hello-json-world.cgi">hello-json-world</a></li>
+                <li><a href="/cgi-bin/c-hello-html-world.cgi">hello-html-world</a></li>
+                <li><a href="/cgi-bin/c-env.cgi">Environment Variables</a></li>
+                <li><a href="/cgi-bin/c-get-echo.cgi">get-echo</a></li>
+                <li><a href="/cgi-bin/c-post-echo.cgi">post-echo</a></li>
+                <li><a href="/cgi-bin/c-general-request-echo.cgi">general-request-echo</a></li>
+                <li><a href="/c-cgiform.html">state-demo</a></li>
+            </ol>
+        </div>
+        <div class="list">
+            <h4>Go(build *.go to *.cgi)</h4>
+            <ol>
+                <li><a href="/cgi-bin/go-hello-html-world.cgi">hello-html-world</a></li>
+                <li><a href="/cgi-bin/go-hello-json-world.cgi">hello-json-world</a></li>
+                <li><a href="/cgi-bin/go-environment.cgi">environment</a></li>
+                <li><a href="/cgi-bin/go-get-echo.cgi">get-echo</a></li>
+                <li><a href="/cgi-bin/go-post-echo.cgi">post-echo</a></li>
+                <li><a href="/cgi-bin/go-general-request-echo.cgi">general-request-echo</a></li>
+                <li><a href="/cgi-bin/go-state-demo.cgi">state-demo</a></li>
+            </ol>
+        </div>
+
+    </div>
+
+    <div class="section">
+        <h3>Analytics App</h3>
+    </div>
+
+</div>
+</body>
+</html>

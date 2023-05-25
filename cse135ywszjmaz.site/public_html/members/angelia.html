@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CSE135_Sp2023(cse135ywszjmaz.site)</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            background-color: #4d386e;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+        }
+        
+        /* Global styles */
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+            color: #6d1111;
+            background-color: #f4f4f4;
+        }
+        
+        a {
+            color: #cc9900;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        h1, h2, h3, h4, h5, h6 {
+            font-weight: bold;
+            margin: 1em 0;
+        }
+        
+        p {
+            margin-left: 30px;
+            margin-top: 10px;
+        }
+        
+        /* Header styles */
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+        
+        h1 {
+            margin-bottom: 1em;
+        }
+        
+        .date {
+            color: #0077cc;
+            font-size: 2em;
+        }
+        
+        /* Main styles */
+        main {
+            display: flex;
+            justify-content: center;
+            margin-top: 2em;
+        }
+        
+        section {
+            display: flex;
+            width: 80%;
+        }
+
+        ul {
+            margin-left: 60px;
+            margin-top: 10px;
+        }
+        
+        nav {
+            width: 20%;
+            background-color: #007ecc;
+            color: #fff;
+            padding: 1em;
+        }
+        
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        
+        nav li {
+            margin-bottom: 1.5em;
+        }
+        
+        nav a {
+            display: block;
+        }  
+    </style>
+    <script>
+        var state = 0; // 0: show text, 1: show date
+
+        function displayDate(){
+            if (state == 0) {
+                document.getElementById("Date").innerHTML=Date();
+                document.getElementById("Mybutton").innerHTML="End Up";
+                state = 1;
+            } else {
+                document.getElementById("Date").innerHTML="Start an Adventure Today";
+                document.getElementById("Mybutton").innerHTML="Start";
+                state = 0;
+            }
+        }
+    </script>
+  </head>
+  <body>
+    <header>
+      <h1>Angelia's Page</h1>
+      <p id="Date">Start an Adventure Today</p>
+      <button type="button" id="Mybutton" onclick="displayDate()">Start an Adventure Today</button>
+    </header>
+    
+    <main>
+      <section>
+        <nav>
+          <ul>
+            <li><a href="#section1">About Me</a></li>
+            <li><a href="#section2">Traveling List</a></li>
+            <li><a href="#section3">TODO Before Dying</a></li>
+          </ul>
+
+        <button type="button" onclick="window.history.back()">Go Back</button>
+        </nav>
+        
+        <div class="content">
+          <article id="section1">
+            <h2>About Me</h2>
+            <p>Name: Angelia Zhang</p>
+            <p>Current City: San Diego</p>
+          </article>
+          
+          <article id="section2">
+            <h2>Traveling List</h2>
+            <p>China</p>
+            <ul>
+                <li>HongKong</li>
+                <li>Sichuan</li>
+                <li>Shaanxi</li>
+            </ul>
+            <p>Japan</p>
+            <ul>
+                <li>Tokyo</li>
+                <li>Kyoto</li>
+                <li>Osaka</li>
+            </ul>
+          </article>
+          
+          <article id="section3">
+            <h2>TODO Before Being Dead</h2>
+            <ul>
+                <li>Bungee jumping</li>
+                <li>Travel around Europe</li>
+                <li>Buy a house on coastal cliff</li>
+            </ul>
+            <p>To be continuous…</p>
+          </article>
+        </div>
+    </section>
+    </main>
+  </body>
+</html>

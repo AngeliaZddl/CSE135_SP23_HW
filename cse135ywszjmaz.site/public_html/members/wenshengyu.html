@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Wensheng Yu: About me</title>
+  <style>
+    /* Add a CSS rule to apply the Times New Roman font to the entire body */
+    body {
+      font-family: "Times New Roman", Times, serif;
+      position: relative;
+    }
+
+    /* Create a flex container for the heading and button */
+    .right-box {
+      position: absolute;
+      top: 0;
+      right: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      background-color: #f1f1f1;
+      padding: 10px;
+      border: 1px solid #256;
+      border-radius: 5px;
+    }
+
+    /* Add some margin to the button for spacing */
+    button {
+      margin-top: 10px;
+    }
+    /* Set colors of h2 titles to brown */
+    .basic-information{
+      color: brown;
+    }
+    .hobbies-practice {
+      color: brown;
+    }
+
+  </style>
+</head>
+
+<body>
+  <!-- Add a back button here -->
+  <button onclick="window.history.back()">Go Back</button>
+
+  <h1>Wensheng Yu's personal messy page</h1>
+
+  <div class="right-box">
+    <h2>Surprise: You can also check the current time here!</h2>
+    
+    <button type="button"
+    onclick="document.getElementById('demo').innerHTML = Date()">
+    Click me to display Date and Time.</button>
+    
+    <p id="demo"></p>
+  </div>
+  
+  <section>
+    <h2 class="basic-information">Some basic information</h2>
+    <div>CS26 major student in Earl Warren college</div>
+    <div>Gender: male</div>
+    <div>Possible directions in future: Game Development, Software Engineering</div>
+  </section>
+
+  <section>
+    <h2 class="hobbies-practice">Personal Hobbies and Practice</h2>
+    <div>Mythology</div>
+    <div>Writing Fiction</div>
+    <div>Board game</div>
+    <div>Simple RPG game design</div>
+    <div>Participating brony community (do translations for fan fiction)</div>
+    <div>Strange Chinese charaters learning and dictation</div>
+    <div>Minecraft and Terraria building</div>
+    <div>Dota2 ranking</div>
+    <div>Singing</div>
+    <div>Can do girl's voice to some degree</div>
+    <div>House Dance that's related to anime, fiction, and game culture</div>
+  </section>
+
+</body>
+</html>

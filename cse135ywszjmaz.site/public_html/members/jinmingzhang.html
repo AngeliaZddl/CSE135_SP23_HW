@@ -1,0 +1,595 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="personal website for Jinming Zhang">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="Jinming Zhang">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jinming Zhang's website</title>
+    <!-- <link rel="stylesheet" href="./style3.css"> -->
+    <link href="/pikachu.ico" rel="icon" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="./body .css"> -->
+    
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Festive&display=swap" rel="stylesheet">
+    
+    
+    <!--script place holder-->
+    <script></script>
+    <style>
+        @font-face {
+            font-family: 'Rowdies';
+            src: url(Rowdies-Light.ttf);
+        }
+
+        @font-face {
+            font-family: 'Rowdies2';
+            src: url(Rowdies-Bold.ttf);
+        }
+
+        html{
+            background-color: black;
+            font-family: 'Rowdies', cursive;
+
+        }
+
+
+
+
+        header {
+            margin-top: 0%;
+            display: flex;
+            flex-wrap: wrap;
+            align-content: center;
+            padding: 2em; 
+            margin: 0em;
+            text-align: center; 
+            background: #1abc9c; 
+            color: white;
+        }
+
+
+        header h2 {
+            margin-top: 30%;
+            font-family: 'Rowdies2';
+            font-size: 5em;
+            text-align: center;
+        }
+
+        header img {
+            padding: 1em;
+            margin: 1em;
+        }
+
+        @media screen and (max-width: 400px) {
+            html{
+                font-size: small;
+            }
+            nav{
+                font-size: small;
+            }
+            header h2{
+                font-size: 3em;
+            }
+            header img {
+                height: 20em;
+            }
+            .Introduction{
+                font-size: small; 
+            }
+            .Introduction img{
+                width: 5em
+            }
+        }
+
+        nav {
+            overflow: hidden;
+            background-color: rgb(24, 20, 20);
+
+            top: 0;
+            z-index: 1;
+            }
+        nav ul{
+            display: flex;
+            justify-content: space-evenly;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: .8em;
+            text-decoration: none;
+            font-size: large;
+        }
+
+        nav a:hover {
+            background: #ddd;
+            color: black;
+        }
+        ul {
+            list-style-type: none;
+        }
+            
+        hr {
+            border: none;
+            border-top: 3px double #333;
+            color: #333;
+            overflow: visible;
+            text-align: center;
+            height: 5px;
+        }
+
+        hr:after {
+            background: beige;
+            content: '§';
+            padding: 0 4px;
+            position: relative;
+            top: -13px;
+        }
+
+        /* aside {
+            
+            width: 15em;
+            height: 100%;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: #111;
+            overflow-x: hidden;
+            padding-top: 16px;
+        }
+        aside button {
+            padding: 6px 8px 6px 16px;
+            text-decoration: none;
+            font-size: 20px;
+            margin-left: 1em;
+            color: #818181;
+            display: block;
+        }
+        aside ul {
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            font-size: 20px;
+            margin-left: 1em;
+            color: #818181;
+
+            
+        }
+
+
+        aside #desplay-name {
+            padding: 6px 8px 6px 16px;
+            text-align: center;
+            text-decoration: none;
+            font-size: 3em;
+
+            color: #818181;
+        } */
+
+        .Introduction{
+            flex-wrap: wrap;
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            font-size: xx-large;
+
+            
+        }
+        .Introduction p{
+            margin-left: auto;
+            margin-right: auto;
+            border-style: dashed;
+        }
+        .Introduction img{
+            margin-left: auto;
+            margin-right: auto;
+            border-style: dashed;
+        }
+
+
+        .skill-summary{
+            margin-left: auto;
+            margin-right: auto;
+            
+            padding: 1em;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .skill-summary h2{
+            font-size: xx-large;
+        }
+        .skill-summary table{
+            width: 100%;
+        }
+
+        #projectdescription{
+            display: flex;
+            flex-direction: column;
+            
+            margin: 4em;
+        }
+
+        #projectdescription h2{
+            font-size: xx-large;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        #projectdescription .seletor{
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .project-detail{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+
+        #ProfessionalExperience{
+            display: flex;
+            flex-wrap: wrap;
+
+        }
+        #ProfessionalExperience h2{
+            font-size: xx-large;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .Experience-detail{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            
+            
+        }
+        .Experience-detail li{
+            
+            padding: 2em;
+        }
+
+        main {
+
+
+
+            background-color: beige;
+        }
+
+        @media (max-width:500px) {
+            aside{
+                display: none;
+            }
+            
+        }
+    </style>
+  </head>
+  <body>
+    <header>
+        <h2 class="name"><strong>Jinming Zhang</strong></h2>
+        <figure>
+          <img src="images/jz_profilePic.jpg" height="500">
+          <figcaption>This is me</figcaption>
+          
+        </figure>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <b><i class="fa fa-fw fa-home"></i>Home</a></b>
+            </li>
+            <li>
+                <b><a href="#projectdescription">Project</a></b>
+            </li>
+            <li>
+                <b><a href="#ProfessionalExperience">Professional Experience</a></b>
+            </li>
+            <li>
+                <b>Click to get Resume</a></b>
+            </li>
+        </ul>  
+        
+    
+    </nav>
+    <aside style="background: gainsboro;">
+        <!-- <section id="profile-picture">
+            <img src="images/profile.jpg" alt="Profile Picture" class="profile" height="150"/>
+        </section> -->
+        <section id="desplay-name">
+            <h1> 
+                <strong>
+                    <code>Jinming Zhang</code> 
+                </strong>
+            </h1>
+        </section>
+        <ul style="color:darkblue;">
+            <li>Instagram
+                <div>
+                    <svg width="15" height="15"><circle cx="9" cy="9" r="5" stroke="pink" stroke-width="4" fill="white" /></svg> kke9nn
+                </div>
+            </li>
+            <li>Twitter
+                <div>
+                    <svg width="15" height="15"><circle cx="9" cy="9" r="5" stroke="pink" stroke-width="4" fill="white" /></svg>Jinming-Zhang
+                </div>
+            </li>
+            <li>LinkedIn
+                <svg width="15" height="15"><circle cx="9" cy="9" r="5" stroke="pink" stroke-width="4" fill="white" /></svg>www.linkedin.com/in/jinming-zhang-9745a943</li>
+            <li>Mobile-Phone
+                <svg width="15" height="15"><circle cx="9" cy="9" r="5" stroke="pink" stroke-width="4" fill="white" /></svg>(858)-666-7064</li>
+        </ul>
+        <br/>
+        <section id="Email-me">
+            <button>
+                <strong>Email me</strong>
+            </button>
+        </section>
+        <section id="random-drawing">
+            <canvas id="myCanvas">Your browser does not support the canvas tag.</canvas>
+
+            <script>
+                var a = document.getElementById("myCanvas");
+                var abc = a.getContext("2d");
+                abc.fillStyle = "pink";
+                abc.fillRect(0, 50, 1000, 5);
+            </script>
+        </section>
+    </aside> 
+    <main>
+      <section class="Introduction">
+        
+
+        <p class="Intro-text">
+
+            Hi, <br>this is Jinming Zhang. <br>A Junior undergraduate studying Computer Science at <span style="color:aqua;">UC San Diego</span>. 
+        </p>
+        <figure>
+            <img src="UCSDLogo_JSOE-ComputerSciEng_BlueGold_Print.jpg" width=400em>
+        </figure>
+        <template>
+            <a class="personal life">Read More about my personal life→</a>
+            <audio controls>
+                <source src="myIntroduction" type="audio/ogg">
+                <source src="myIntroduction" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            <iframe src="https://www.ucsd.edu">
+            </iframe>
+        </template>
+        
+      </section>
+
+
+      <hr>
+
+
+      <section class="skill-summary">
+        <h2>What skills do I know?</h2>
+        <table>
+            <caption>Here is the <em>list</em></caption>
+            <colgroup>
+                <col span="2" style="background-color:bisque">
+                <col style="background-color:burlywood">
+            </colgroup>
+            <tr>
+              <th></th>
+              <th>Skill Name</th>
+              <th>Confidence %</th>
+            </tr>
+            <tr>
+                <td> </td>
+                <td>Python</td>
+                <td>80</td>
+              </tr>
+            <tr>
+              <td> </td>
+              <td>Java</td>
+              <td>70</td>
+            </tr>
+            <tr>
+              <td> </td>
+              <td>C++</td>
+              <td>70</td>
+            </tr>
+            <tr>
+                <td> </td>
+                <td>C</td>
+                <td>70</td>
+              </tr>
+              <tr>
+                <td> </td>
+                <td>Haskel</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td> </td>
+                <td>HTML</td>
+                <td>35</td>
+              </tr>
+        </table>
+      </section>
+
+      <hr>
+
+      <section id="projectdescription">
+            <h2>My Projects</h2>
+            <section class="seletor">
+                <form>
+                    <label>Choose a Project to view:</label>
+                    <select name="projects" id="projects">
+                      <optgroup label="Project1">
+                        <option value="description">description</option>
+                        <option value="image&video">image&video</option>
+                      </optgroup>
+                      <optgroup label="Project2">
+                        <option value="description">description</option>
+                        <option value="image&video">image&video</option>
+                      </optgroup>
+                      <optgroup label="Project3">
+                        <option value="description">description</option>
+                        <option value="image&video">image&video</option>
+                      </optgroup>
+                      <optgroup label="Project4">
+                        <option value="description">description</option>
+                        <option value="image&video">image&video</option>
+                      </optgroup>
+                    </select>
+                    <input type="submit" value="Select">
+                  </form>
+            </section>
+            <ul class="project-detail">
+                <li class="project">
+                    <h3><i>Project 1</i></h3>
+                    <p class = description-text> 
+                        place holder
+                    </p><br>
+                    <video width="320" height="240" controls>
+                        <source src="movie.mp4" type="video/mp4">
+                        <source src="movie.ogg" type="video/ogg">
+                        Your browser does not support the video tag.
+                    </video><br>
+                </li>
+                <li class="project">
+                    <h3><i>Project 2</i></h3>
+                    <p class = description-text>
+                        place holder
+                    </p><br>
+                    <video width="320" height="240" controls>
+                        <source src="movie.mp4" type="video/mp4">
+                        <source src="movie.ogg" type="video/ogg">
+                        Your browser does not support the video tag.
+                    </video>
+                </li>
+                <li class="project">
+                    <h3><i>Project 3</i></h3>
+                    <p class = description-text>
+                        place holder
+                    </p><br>
+                    <video width="320" height="240" controls>
+                        <source src="movie.mp4" type="video/mp4">
+                        <source src="movie.ogg" type="video/ogg">
+                        Your browser does not support the video tag.
+                    </video>
+                </li>
+                <li class="project">
+                    <h3><i>Project 4</i></h3>
+                    <p class = description-text>
+                        place holder
+                    </p><br>
+                    <video width="320" height="240" controls>
+                        <source src="movie.mp4" type="video/mp4">
+                        <source src="movie.ogg" type="video/ogg">
+                        Your browser does not support the video tag.
+                    </video>
+                </li>
+            </ul>
+      </section>
+
+      <hr>
+
+      <section id="ProfessionalExperience">
+        <h2>My Experiences</h2>
+        <ul class="Experience-detail">
+            <li class="Experience">
+                <details>
+                    <summary><i>Company 1</i></summary>
+
+                    <p class = description-text> 
+                    place holder
+                     </p><br>
+                    <video width="320" height="240" controls>
+                        <source src="movie.mp4" type="video/mp4">
+                        <source src="movie.ogg" type="video/ogg">
+                        Your browser does not support the video tag.
+                    </video>
+                </details>
+                
+            </li>
+            <li class="project">
+                <details>
+                    <summary><i>Company 2</i></summary>
+
+                    <p class = description-text> 
+                    place holder
+                     </p><br>
+                    <video width="320" height="240" controls>
+                        <source src="movie.mp4" type="video/mp4">
+                        <source src="movie.ogg" type="video/ogg">
+                        Your browser does not support the video tag.
+                    </video>
+                </details>
+            </li>
+            <li class="project">
+                <details>
+                    <summary><i>Company 3</i></summary>
+
+                    <p class = description-text> 
+                    place holder
+                     </p><br>
+                    <video width="320" height="240" controls>
+                        <source src="movie.mp4" type="video/mp4">
+                        <source src="movie.ogg" type="video/ogg">
+                        Your browser does not support the video tag.
+                    </video>
+                </details>
+            </li>
+            <li class="project">
+                <details>
+                    <summary><i>Company 4</i></summary>
+
+                    <p class = description-text> 
+                    place holder
+                     </p><br>
+                    <video width="320" height="240" controls>
+                        <source src="movie.mp4" type="video/mp4">
+                        <source src="movie.ogg" type="video/ogg">
+                        Your browser does not support the video tag.
+                    </video>
+                </details>
+            </li>
+        </ul>
+      </section>
+      
+      <hr>
+
+      <section class="comment">
+        <h3>please leave a comment to help me improve my website</h3>
+        <form>
+            <fieldset>
+             <legend>Comment box:</legend>
+             <label for="nickname">Nickname:</label>
+             <input type="text" id="nickname" name="nickname"><br>
+             <label>Please leave a comment here:</label><br>
+             <textarea id="website-eview" name="website-eview" rows="4" cols="30"></textarea><br>
+             <label>How do think the website is designed:</label>
+             <input list="reactions" name="reaction" id="reaction">
+             <datalist id="reactions">
+                <option value="Excellent">
+                <option value="Good">
+                <option value="Average">
+                <option value="Poor">
+             </datalist><br>
+             <input type="submit" value="Submit"><br>
+            </fieldset>
+        </form>
+      </section>
+
+      
+    </main>
+    <footer style="background: magenta;">
+      <nav class="footer-links"></nav>
+      <small>&copy; Copyright 2022, Jinming Zhang</small>
+    </footer>
+  </body>
+</html>

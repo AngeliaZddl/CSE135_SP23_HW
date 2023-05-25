@@ -1,0 +1,3532 @@
+{
+  "static": [
+    {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "cookiesEnabled": true,
+      "javaScriptEnabled": true,
+      "screenDimensions": "1707x1067",
+      "windowDimensions": "851x845",
+      "connection": "4g",
+      "id": 1
+    },
+    {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "cookiesEnabled": true,
+      "javaScriptEnabled": true,
+      "screenDimensions": "1707x1067",
+      "windowDimensions": "851x845",
+      "connection": "4g",
+      "id": 2
+    },
+    {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+      "language": "en",
+      "cookiesEnabled": true,
+      "javaScriptEnabled": true,
+      "screenDimensions": "1475x830",
+      "windowDimensions": "1474x703",
+      "connection": "4g",
+      "id": 3
+    },
+    {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+      "language": "en-US",
+      "cookiesEnabled": true,
+      "javaScriptEnabled": true,
+      "screenDimensions": "1707x1067",
+      "windowDimensions": "851x845",
+      "connection": "4g",
+      "id": 4
+    }
+  ],
+  "activity": [
+    {
+      "errors": [],
+      "mouseActivity": [],
+      "keyboardActivity": [],
+      "idleTimes": [],
+      "session": {
+        "start": 1684979041919,
+        "page": "https://cse135ywszjmaz.site/",
+        "end": 1684979044887,
+        "duration": 2968
+      },
+      "id": 1
+    },
+    {
+      "errors": [],
+      "mouseActivity": [
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 284,
+            "y": 23
+          },
+          "timestamp": 1684979328480
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 292,
+            "y": 50
+          },
+          "timestamp": 1684979328483
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 301,
+            "y": 80
+          },
+          "timestamp": 1684979328487
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 309,
+            "y": 110
+          },
+          "timestamp": 1684979328492
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 317,
+            "y": 138
+          },
+          "timestamp": 1684979328497
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 325,
+            "y": 164
+          },
+          "timestamp": 1684979328503
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 333,
+            "y": 190
+          },
+          "timestamp": 1684979328506
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 341,
+            "y": 214
+          },
+          "timestamp": 1684979328510
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 346,
+            "y": 236
+          },
+          "timestamp": 1684979328515
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 352,
+            "y": 258
+          },
+          "timestamp": 1684979328519
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 359,
+            "y": 277
+          },
+          "timestamp": 1684979328524
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 363,
+            "y": 296
+          },
+          "timestamp": 1684979328527
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 370,
+            "y": 325
+          },
+          "timestamp": 1684979328537
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 374,
+            "y": 338
+          },
+          "timestamp": 1684979328542
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 376,
+            "y": 352
+          },
+          "timestamp": 1684979328546
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 377,
+            "y": 364
+          },
+          "timestamp": 1684979328550
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 379,
+            "y": 375
+          },
+          "timestamp": 1684979328555
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 380,
+            "y": 384
+          },
+          "timestamp": 1684979328559
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 381,
+            "y": 394
+          },
+          "timestamp": 1684979328564
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 381,
+            "y": 402
+          },
+          "timestamp": 1684979328568
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 381,
+            "y": 411
+          },
+          "timestamp": 1684979328573
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 381,
+            "y": 418
+          },
+          "timestamp": 1684979328577
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 381,
+            "y": 425
+          },
+          "timestamp": 1684979328581
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 380,
+            "y": 432
+          },
+          "timestamp": 1684979328585
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 378,
+            "y": 439
+          },
+          "timestamp": 1684979328589
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 377,
+            "y": 444
+          },
+          "timestamp": 1684979328594
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 375,
+            "y": 450
+          },
+          "timestamp": 1684979328599
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 372,
+            "y": 455
+          },
+          "timestamp": 1684979328603
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 370,
+            "y": 459
+          },
+          "timestamp": 1684979328607
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 365,
+            "y": 466
+          },
+          "timestamp": 1684979328617
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 363,
+            "y": 470
+          },
+          "timestamp": 1684979328621
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 360,
+            "y": 472
+          },
+          "timestamp": 1684979328625
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 358,
+            "y": 474
+          },
+          "timestamp": 1684979328630
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 356,
+            "y": 476
+          },
+          "timestamp": 1684979328633
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 354,
+            "y": 477
+          },
+          "timestamp": 1684979328639
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 353,
+            "y": 479
+          },
+          "timestamp": 1684979328642
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 352,
+            "y": 479
+          },
+          "timestamp": 1684979328647
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 350,
+            "y": 480
+          },
+          "timestamp": 1684979328651
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 349,
+            "y": 480
+          },
+          "timestamp": 1684979328657
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 348,
+            "y": 480
+          },
+          "timestamp": 1684979328661
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 348,
+            "y": 481
+          },
+          "timestamp": 1684979328665
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 347,
+            "y": 481
+          },
+          "timestamp": 1684979328669
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 346,
+            "y": 481
+          },
+          "timestamp": 1684979328674
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 346,
+            "y": 481
+          },
+          "timestamp": 1684979328814
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 346,
+            "y": 475
+          },
+          "timestamp": 1684979329156
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 350,
+            "y": 466
+          },
+          "timestamp": 1684979329162
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 352,
+            "y": 457
+          },
+          "timestamp": 1684979329166
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 356,
+            "y": 446
+          },
+          "timestamp": 1684979329170
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 359,
+            "y": 436
+          },
+          "timestamp": 1684979329174
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 362,
+            "y": 427
+          },
+          "timestamp": 1684979329179
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 366,
+            "y": 417
+          },
+          "timestamp": 1684979329183
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 368,
+            "y": 410
+          },
+          "timestamp": 1684979329187
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 371,
+            "y": 403
+          },
+          "timestamp": 1684979329191
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 374,
+            "y": 397
+          },
+          "timestamp": 1684979329195
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 376,
+            "y": 390
+          },
+          "timestamp": 1684979329199
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 378,
+            "y": 384
+          },
+          "timestamp": 1684979329203
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 381,
+            "y": 374
+          },
+          "timestamp": 1684979329212
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 382,
+            "y": 368
+          },
+          "timestamp": 1684979329216
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 384,
+            "y": 364
+          },
+          "timestamp": 1684979329220
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 385,
+            "y": 360
+          },
+          "timestamp": 1684979329228
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 386,
+            "y": 354
+          },
+          "timestamp": 1684979329233
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 388,
+            "y": 347
+          },
+          "timestamp": 1684979329237
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 390,
+            "y": 340
+          },
+          "timestamp": 1684979329241
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 392,
+            "y": 332
+          },
+          "timestamp": 1684979329245
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 395,
+            "y": 321
+          },
+          "timestamp": 1684979329249
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 398,
+            "y": 310
+          },
+          "timestamp": 1684979329254
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 400,
+            "y": 299
+          },
+          "timestamp": 1684979329258
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 404,
+            "y": 287
+          },
+          "timestamp": 1684979329262
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 406,
+            "y": 276
+          },
+          "timestamp": 1684979329266
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 410,
+            "y": 265
+          },
+          "timestamp": 1684979329270
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 412,
+            "y": 255
+          },
+          "timestamp": 1684979329274
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 420,
+            "y": 233
+          },
+          "timestamp": 1684979329283
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 425,
+            "y": 222
+          },
+          "timestamp": 1684979329291
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 429,
+            "y": 212
+          },
+          "timestamp": 1684979329295
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 432,
+            "y": 202
+          },
+          "timestamp": 1684979329300
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 438,
+            "y": 190
+          },
+          "timestamp": 1684979329304
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 442,
+            "y": 181
+          },
+          "timestamp": 1684979329308
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 446,
+            "y": 171
+          },
+          "timestamp": 1684979329312
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 450,
+            "y": 161
+          },
+          "timestamp": 1684979329316
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 454,
+            "y": 153
+          },
+          "timestamp": 1684979329320
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 457,
+            "y": 146
+          },
+          "timestamp": 1684979329324
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 460,
+            "y": 138
+          },
+          "timestamp": 1684979329329
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 463,
+            "y": 132
+          },
+          "timestamp": 1684979329333
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 467,
+            "y": 128
+          },
+          "timestamp": 1684979329337
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 468,
+            "y": 124
+          },
+          "timestamp": 1684979329341
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 471,
+            "y": 121
+          },
+          "timestamp": 1684979329345
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 472,
+            "y": 120
+          },
+          "timestamp": 1684979329349
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 474,
+            "y": 118
+          },
+          "timestamp": 1684979329358
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 476,
+            "y": 116
+          },
+          "timestamp": 1684979329362
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 476,
+            "y": 116
+          },
+          "timestamp": 1684979329366
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 478,
+            "y": 116
+          },
+          "timestamp": 1684979329370
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 478,
+            "y": 115
+          },
+          "timestamp": 1684979329374
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 479,
+            "y": 115
+          },
+          "timestamp": 1684979329379
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 480,
+            "y": 115
+          },
+          "timestamp": 1684979329383
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 480,
+            "y": 115
+          },
+          "timestamp": 1684979329391
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 480,
+            "y": 115
+          },
+          "timestamp": 1684979329425
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 480,
+            "y": 115
+          },
+          "timestamp": 1684979329429
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 480,
+            "y": 127
+          },
+          "timestamp": 1684979329690
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 478,
+            "y": 150
+          },
+          "timestamp": 1684979329693
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 475,
+            "y": 170
+          },
+          "timestamp": 1684979329697
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 472,
+            "y": 194
+          },
+          "timestamp": 1684979329702
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 468,
+            "y": 215
+          },
+          "timestamp": 1684979329706
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 466,
+            "y": 235
+          },
+          "timestamp": 1684979329710
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 462,
+            "y": 254
+          },
+          "timestamp": 1684979329714
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 458,
+            "y": 270
+          },
+          "timestamp": 1684979329718
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 454,
+            "y": 284
+          },
+          "timestamp": 1684979329724
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 452,
+            "y": 296
+          },
+          "timestamp": 1684979329728
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 449,
+            "y": 306
+          },
+          "timestamp": 1684979329732
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 446,
+            "y": 316
+          },
+          "timestamp": 1684979329736
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 444,
+            "y": 324
+          },
+          "timestamp": 1684979329741
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 442,
+            "y": 330
+          },
+          "timestamp": 1684979329745
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 439,
+            "y": 336
+          },
+          "timestamp": 1684979329749
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 437,
+            "y": 340
+          },
+          "timestamp": 1684979329754
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 436,
+            "y": 344
+          },
+          "timestamp": 1684979329759
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 435,
+            "y": 346
+          },
+          "timestamp": 1684979329763
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 433,
+            "y": 348
+          },
+          "timestamp": 1684979329772
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 432,
+            "y": 348
+          },
+          "timestamp": 1684979329785
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 431,
+            "y": 348
+          },
+          "timestamp": 1684979329799
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 430,
+            "y": 347
+          },
+          "timestamp": 1684979329804
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 430,
+            "y": 346
+          },
+          "timestamp": 1684979329807
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 430,
+            "y": 346
+          },
+          "timestamp": 1684979329914
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 430,
+            "y": 346
+          },
+          "timestamp": 1684979330124
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 430,
+            "y": 345
+          },
+          "timestamp": 1684979330332
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 430,
+            "y": 344
+          },
+          "timestamp": 1684979330356
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 429,
+            "y": 344
+          },
+          "timestamp": 1684979330369
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 428,
+            "y": 344
+          },
+          "timestamp": 1684979330380
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 427,
+            "y": 344
+          },
+          "timestamp": 1684979330393
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 426,
+            "y": 343
+          },
+          "timestamp": 1684979330397
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 426,
+            "y": 342
+          },
+          "timestamp": 1684979330401
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 425,
+            "y": 342
+          },
+          "timestamp": 1684979330409
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 424,
+            "y": 341
+          },
+          "timestamp": 1684979330412
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 424,
+            "y": 340
+          },
+          "timestamp": 1684979330422
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 423,
+            "y": 340
+          },
+          "timestamp": 1684979330426
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 423,
+            "y": 340
+          },
+          "timestamp": 1684979330530
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 419,
+            "y": 354
+          },
+          "timestamp": 1684979330835
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 411,
+            "y": 379
+          },
+          "timestamp": 1684979330837
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 403,
+            "y": 406
+          },
+          "timestamp": 1684979330841
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 394,
+            "y": 434
+          },
+          "timestamp": 1684979330846
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 384,
+            "y": 462
+          },
+          "timestamp": 1684979330850
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 374,
+            "y": 490
+          },
+          "timestamp": 1684979330854
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 364,
+            "y": 515
+          },
+          "timestamp": 1684979330858
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 357,
+            "y": 537
+          },
+          "timestamp": 1684979330862
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 348,
+            "y": 558
+          },
+          "timestamp": 1684979330867
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 342,
+            "y": 574
+          },
+          "timestamp": 1684979330871
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 336,
+            "y": 587
+          },
+          "timestamp": 1684979330875
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 332,
+            "y": 598
+          },
+          "timestamp": 1684979330880
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 328,
+            "y": 606
+          },
+          "timestamp": 1684979330884
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 324,
+            "y": 612
+          },
+          "timestamp": 1684979330889
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 323,
+            "y": 616
+          },
+          "timestamp": 1684979330892
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 322,
+            "y": 618
+          },
+          "timestamp": 1684979330896
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 321,
+            "y": 619
+          },
+          "timestamp": 1684979330901
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 320,
+            "y": 619
+          },
+          "timestamp": 1684979330906
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 320,
+            "y": 620
+          },
+          "timestamp": 1684979330910
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 320,
+            "y": 619
+          },
+          "timestamp": 1684979330926
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 321,
+            "y": 618
+          },
+          "timestamp": 1684979330929
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 322,
+            "y": 613
+          },
+          "timestamp": 1684979330933
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 327,
+            "y": 604
+          },
+          "timestamp": 1684979330937
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 334,
+            "y": 590
+          },
+          "timestamp": 1684979330942
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 348,
+            "y": 568
+          },
+          "timestamp": 1684979330946
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 366,
+            "y": 536
+          },
+          "timestamp": 1684979330950
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 393,
+            "y": 496
+          },
+          "timestamp": 1684979330954
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 417,
+            "y": 458
+          },
+          "timestamp": 1684979330959
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 446,
+            "y": 422
+          },
+          "timestamp": 1684979330963
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 472,
+            "y": 384
+          },
+          "timestamp": 1684979330969
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 500,
+            "y": 351
+          },
+          "timestamp": 1684979330972
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 526,
+            "y": 320
+          },
+          "timestamp": 1684979330977
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 550,
+            "y": 294
+          },
+          "timestamp": 1684979330981
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 570,
+            "y": 275
+          },
+          "timestamp": 1684979330986
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 599,
+            "y": 245
+          },
+          "timestamp": 1684979330997
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 610,
+            "y": 232
+          },
+          "timestamp": 1684979331000
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 618,
+            "y": 225
+          },
+          "timestamp": 1684979331004
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 624,
+            "y": 218
+          },
+          "timestamp": 1684979331008
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 628,
+            "y": 215
+          },
+          "timestamp": 1684979331012
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 630,
+            "y": 212
+          },
+          "timestamp": 1684979331016
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 631,
+            "y": 210
+          },
+          "timestamp": 1684979331021
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 632,
+            "y": 210
+          },
+          "timestamp": 1684979331025
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 632,
+            "y": 209
+          },
+          "timestamp": 1684979331030
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 632,
+            "y": 208
+          },
+          "timestamp": 1684979331042
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 630,
+            "y": 208
+          },
+          "timestamp": 1684979331067
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 628,
+            "y": 208
+          },
+          "timestamp": 1684979331071
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 623,
+            "y": 208
+          },
+          "timestamp": 1684979331076
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 616,
+            "y": 208
+          },
+          "timestamp": 1684979331080
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 601,
+            "y": 212
+          },
+          "timestamp": 1684979331085
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 576,
+            "y": 221
+          },
+          "timestamp": 1684979331088
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 545,
+            "y": 233
+          },
+          "timestamp": 1684979331093
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 509,
+            "y": 247
+          },
+          "timestamp": 1684979331096
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 475,
+            "y": 265
+          },
+          "timestamp": 1684979331102
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 442,
+            "y": 287
+          },
+          "timestamp": 1684979331105
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 417,
+            "y": 305
+          },
+          "timestamp": 1684979331111
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 398,
+            "y": 318
+          },
+          "timestamp": 1684979331115
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 380,
+            "y": 335
+          },
+          "timestamp": 1684979331119
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 366,
+            "y": 352
+          },
+          "timestamp": 1684979331124
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 354,
+            "y": 367
+          },
+          "timestamp": 1684979331128
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 338,
+            "y": 396
+          },
+          "timestamp": 1684979331137
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 332,
+            "y": 407
+          },
+          "timestamp": 1684979331141
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 326,
+            "y": 419
+          },
+          "timestamp": 1684979331146
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 322,
+            "y": 432
+          },
+          "timestamp": 1684979331150
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 320,
+            "y": 444
+          },
+          "timestamp": 1684979331155
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 318,
+            "y": 456
+          },
+          "timestamp": 1684979331159
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 315,
+            "y": 469
+          },
+          "timestamp": 1684979331164
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 314,
+            "y": 484
+          },
+          "timestamp": 1684979331168
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 314,
+            "y": 496
+          },
+          "timestamp": 1684979331172
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 314,
+            "y": 506
+          },
+          "timestamp": 1684979331176
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 316,
+            "y": 517
+          },
+          "timestamp": 1684979331181
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 318,
+            "y": 528
+          },
+          "timestamp": 1684979331186
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 320,
+            "y": 536
+          },
+          "timestamp": 1684979331191
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 323,
+            "y": 544
+          },
+          "timestamp": 1684979331195
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 332,
+            "y": 559
+          },
+          "timestamp": 1684979331204
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 335,
+            "y": 564
+          },
+          "timestamp": 1684979331208
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 342,
+            "y": 569
+          },
+          "timestamp": 1684979331212
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 348,
+            "y": 573
+          },
+          "timestamp": 1684979331217
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 356,
+            "y": 577
+          },
+          "timestamp": 1684979331221
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 366,
+            "y": 580
+          },
+          "timestamp": 1684979331226
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 375,
+            "y": 582
+          },
+          "timestamp": 1684979331230
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 386,
+            "y": 581
+          },
+          "timestamp": 1684979331235
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 398,
+            "y": 580
+          },
+          "timestamp": 1684979331240
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 410,
+            "y": 578
+          },
+          "timestamp": 1684979331244
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 422,
+            "y": 574
+          },
+          "timestamp": 1684979331248
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 434,
+            "y": 570
+          },
+          "timestamp": 1684979331252
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 448,
+            "y": 566
+          },
+          "timestamp": 1684979331257
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 459,
+            "y": 560
+          },
+          "timestamp": 1684979331262
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 469,
+            "y": 554
+          },
+          "timestamp": 1684979331266
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 479,
+            "y": 549
+          },
+          "timestamp": 1684979331270
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 488,
+            "y": 542
+          },
+          "timestamp": 1684979331274
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 495,
+            "y": 535
+          },
+          "timestamp": 1684979331283
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 503,
+            "y": 527
+          },
+          "timestamp": 1684979331288
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 508,
+            "y": 520
+          },
+          "timestamp": 1684979331292
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 513,
+            "y": 512
+          },
+          "timestamp": 1684979331296
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 518,
+            "y": 503
+          },
+          "timestamp": 1684979331301
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 520,
+            "y": 494
+          },
+          "timestamp": 1684979331304
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 523,
+            "y": 484
+          },
+          "timestamp": 1684979331310
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 524,
+            "y": 473
+          },
+          "timestamp": 1684979331312
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 525,
+            "y": 460
+          },
+          "timestamp": 1684979331317
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 526,
+            "y": 445
+          },
+          "timestamp": 1684979331321
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 526,
+            "y": 426
+          },
+          "timestamp": 1684979331325
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 522,
+            "y": 401
+          },
+          "timestamp": 1684979331330
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 520,
+            "y": 378
+          },
+          "timestamp": 1684979331333
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 516,
+            "y": 356
+          },
+          "timestamp": 1684979331337
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 512,
+            "y": 338
+          },
+          "timestamp": 1684979331342
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 506,
+            "y": 316
+          },
+          "timestamp": 1684979331346
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 501,
+            "y": 304
+          },
+          "timestamp": 1684979331350
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 498,
+            "y": 294
+          },
+          "timestamp": 1684979331355
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 493,
+            "y": 286
+          },
+          "timestamp": 1684979331360
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 488,
+            "y": 278
+          },
+          "timestamp": 1684979331364
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 484,
+            "y": 272
+          },
+          "timestamp": 1684979331368
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 480,
+            "y": 270
+          },
+          "timestamp": 1684979331372
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 474,
+            "y": 267
+          },
+          "timestamp": 1684979331383
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 470,
+            "y": 267
+          },
+          "timestamp": 1684979331387
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 468,
+            "y": 267
+          },
+          "timestamp": 1684979331392
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 465,
+            "y": 268
+          },
+          "timestamp": 1684979331396
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 460,
+            "y": 271
+          },
+          "timestamp": 1684979331400
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 454,
+            "y": 276
+          },
+          "timestamp": 1684979331404
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 446,
+            "y": 284
+          },
+          "timestamp": 1684979331408
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 435,
+            "y": 296
+          },
+          "timestamp": 1684979331413
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 420,
+            "y": 311
+          },
+          "timestamp": 1684979331417
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 406,
+            "y": 330
+          },
+          "timestamp": 1684979331422
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 388,
+            "y": 355
+          },
+          "timestamp": 1684979331427
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 373,
+            "y": 382
+          },
+          "timestamp": 1684979331431
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 360,
+            "y": 408
+          },
+          "timestamp": 1684979331437
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 349,
+            "y": 433
+          },
+          "timestamp": 1684979331440
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 340,
+            "y": 458
+          },
+          "timestamp": 1684979331444
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 330,
+            "y": 481
+          },
+          "timestamp": 1684979331448
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 324,
+            "y": 503
+          },
+          "timestamp": 1684979331452
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 319,
+            "y": 522
+          },
+          "timestamp": 1684979331457
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 314,
+            "y": 541
+          },
+          "timestamp": 1684979331461
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 310,
+            "y": 555
+          },
+          "timestamp": 1684979331466
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 306,
+            "y": 570
+          },
+          "timestamp": 1684979331470
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 304,
+            "y": 582
+          },
+          "timestamp": 1684979331479
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 302,
+            "y": 594
+          },
+          "timestamp": 1684979331483
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 298,
+            "y": 612
+          },
+          "timestamp": 1684979331488
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 296,
+            "y": 618
+          },
+          "timestamp": 1684979331493
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 295,
+            "y": 622
+          },
+          "timestamp": 1684979331497
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 294,
+            "y": 626
+          },
+          "timestamp": 1684979331502
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 294,
+            "y": 628
+          },
+          "timestamp": 1684979331506
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 293,
+            "y": 628
+          },
+          "timestamp": 1684979331534
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 293,
+            "y": 626
+          },
+          "timestamp": 1684979331573
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 293,
+            "y": 626
+          },
+          "timestamp": 1684979331882
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 241,
+            "y": 626
+          },
+          "timestamp": 1684979332350
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 241,
+            "y": 626
+          },
+          "timestamp": 1684979332356
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 241,
+            "y": 626
+          },
+          "timestamp": 1684979332471
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 241,
+            "y": 626
+          },
+          "timestamp": 1684979332481
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 241,
+            "y": 620
+          },
+          "timestamp": 1684979332780
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 241,
+            "y": 610
+          },
+          "timestamp": 1684979332784
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 241,
+            "y": 601
+          },
+          "timestamp": 1684979332788
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 242,
+            "y": 592
+          },
+          "timestamp": 1684979332792
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 242,
+            "y": 582
+          },
+          "timestamp": 1684979332796
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 242,
+            "y": 573
+          },
+          "timestamp": 1684979332800
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 244,
+            "y": 563
+          },
+          "timestamp": 1684979332804
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 244,
+            "y": 554
+          },
+          "timestamp": 1684979332809
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 246,
+            "y": 544
+          },
+          "timestamp": 1684979332813
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 248,
+            "y": 535
+          },
+          "timestamp": 1684979332817
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 250,
+            "y": 525
+          },
+          "timestamp": 1684979332821
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 252,
+            "y": 516
+          },
+          "timestamp": 1684979332826
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 254,
+            "y": 508
+          },
+          "timestamp": 1684979332831
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 256,
+            "y": 500
+          },
+          "timestamp": 1684979332835
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 258,
+            "y": 494
+          },
+          "timestamp": 1684979332840
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 260,
+            "y": 488
+          },
+          "timestamp": 1684979332844
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 262,
+            "y": 482
+          },
+          "timestamp": 1684979332848
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 265,
+            "y": 477
+          },
+          "timestamp": 1684979332853
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 266,
+            "y": 474
+          },
+          "timestamp": 1684979332856
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 268,
+            "y": 470
+          },
+          "timestamp": 1684979332861
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 270,
+            "y": 466
+          },
+          "timestamp": 1684979332865
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 272,
+            "y": 462
+          },
+          "timestamp": 1684979332870
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 274,
+            "y": 459
+          },
+          "timestamp": 1684979332874
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 276,
+            "y": 457
+          },
+          "timestamp": 1684979332879
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 278,
+            "y": 455
+          },
+          "timestamp": 1684979332884
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 280,
+            "y": 453
+          },
+          "timestamp": 1684979332889
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 282,
+            "y": 452
+          },
+          "timestamp": 1684979332892
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 284,
+            "y": 450
+          },
+          "timestamp": 1684979332897
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 287,
+            "y": 450
+          },
+          "timestamp": 1684979332900
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 290,
+            "y": 450
+          },
+          "timestamp": 1684979332906
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 293,
+            "y": 449
+          },
+          "timestamp": 1684979332909
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 296,
+            "y": 449
+          },
+          "timestamp": 1684979332914
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 301,
+            "y": 448
+          },
+          "timestamp": 1684979332918
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 306,
+            "y": 448
+          },
+          "timestamp": 1684979332924
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 313,
+            "y": 448
+          },
+          "timestamp": 1684979332929
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 319,
+            "y": 448
+          },
+          "timestamp": 1684979332932
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 324,
+            "y": 448
+          },
+          "timestamp": 1684979332936
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 330,
+            "y": 448
+          },
+          "timestamp": 1684979332941
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 336,
+            "y": 450
+          },
+          "timestamp": 1684979332945
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 341,
+            "y": 450
+          },
+          "timestamp": 1684979332955
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 346,
+            "y": 452
+          },
+          "timestamp": 1684979332959
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 348,
+            "y": 453
+          },
+          "timestamp": 1684979332963
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 352,
+            "y": 454
+          },
+          "timestamp": 1684979332967
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 355,
+            "y": 454
+          },
+          "timestamp": 1684979332972
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 357,
+            "y": 456
+          },
+          "timestamp": 1684979332975
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 358,
+            "y": 456
+          },
+          "timestamp": 1684979332979
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 360,
+            "y": 457
+          },
+          "timestamp": 1684979332984
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 360,
+            "y": 458
+          },
+          "timestamp": 1684979332988
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 362,
+            "y": 458
+          },
+          "timestamp": 1684979332992
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 362,
+            "y": 459
+          },
+          "timestamp": 1684979332996
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 362,
+            "y": 460
+          },
+          "timestamp": 1684979333000
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 363,
+            "y": 461
+          },
+          "timestamp": 1684979333013
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 363,
+            "y": 462
+          },
+          "timestamp": 1684979333017
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 363,
+            "y": 462
+          },
+          "timestamp": 1684979333244
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 363,
+            "y": 462
+          },
+          "timestamp": 1684979333413
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 363,
+            "y": 462
+          },
+          "timestamp": 1684979333570
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 366,
+            "y": 462
+          },
+          "timestamp": 1684979333854
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 370,
+            "y": 462
+          },
+          "timestamp": 1684979333858
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 375,
+            "y": 462
+          },
+          "timestamp": 1684979333861
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 380,
+            "y": 462
+          },
+          "timestamp": 1684979333866
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 386,
+            "y": 462
+          },
+          "timestamp": 1684979333870
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 391,
+            "y": 462
+          },
+          "timestamp": 1684979333876
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 397,
+            "y": 462
+          },
+          "timestamp": 1684979333879
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 402,
+            "y": 463
+          },
+          "timestamp": 1684979333883
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 408,
+            "y": 463
+          },
+          "timestamp": 1684979333888
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 412,
+            "y": 464
+          },
+          "timestamp": 1684979333893
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 418,
+            "y": 464
+          },
+          "timestamp": 1684979333897
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 421,
+            "y": 466
+          },
+          "timestamp": 1684979333902
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 426,
+            "y": 468
+          },
+          "timestamp": 1684979333906
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 431,
+            "y": 470
+          },
+          "timestamp": 1684979333916
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 433,
+            "y": 470
+          },
+          "timestamp": 1684979333920
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 434,
+            "y": 472
+          },
+          "timestamp": 1684979333924
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 436,
+            "y": 472
+          },
+          "timestamp": 1684979333928
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 437,
+            "y": 473
+          },
+          "timestamp": 1684979333941
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 438,
+            "y": 474
+          },
+          "timestamp": 1684979333945
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 439,
+            "y": 474
+          },
+          "timestamp": 1684979333951
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 439,
+            "y": 474
+          },
+          "timestamp": 1684979334057
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 447,
+            "y": 470
+          },
+          "timestamp": 1684979334321
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 460,
+            "y": 465
+          },
+          "timestamp": 1684979334325
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 472,
+            "y": 459
+          },
+          "timestamp": 1684979334329
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 484,
+            "y": 454
+          },
+          "timestamp": 1684979334334
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 496,
+            "y": 448
+          },
+          "timestamp": 1684979334337
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 509,
+            "y": 444
+          },
+          "timestamp": 1684979334343
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 521,
+            "y": 439
+          },
+          "timestamp": 1684979334346
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 534,
+            "y": 436
+          },
+          "timestamp": 1684979334351
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 544,
+            "y": 431
+          },
+          "timestamp": 1684979334355
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 556,
+            "y": 428
+          },
+          "timestamp": 1684979334359
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 568,
+            "y": 425
+          },
+          "timestamp": 1684979334363
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 580,
+            "y": 422
+          },
+          "timestamp": 1684979334367
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 590,
+            "y": 418
+          },
+          "timestamp": 1684979334372
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 600,
+            "y": 414
+          },
+          "timestamp": 1684979334376
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 610,
+            "y": 410
+          },
+          "timestamp": 1684979334382
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 620,
+            "y": 407
+          },
+          "timestamp": 1684979334387
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 627,
+            "y": 404
+          },
+          "timestamp": 1684979334390
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 635,
+            "y": 401
+          },
+          "timestamp": 1684979334395
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 642,
+            "y": 399
+          },
+          "timestamp": 1684979334398
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 648,
+            "y": 398
+          },
+          "timestamp": 1684979334403
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 654,
+            "y": 396
+          },
+          "timestamp": 1684979334407
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 659,
+            "y": 396
+          },
+          "timestamp": 1684979334412
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 662,
+            "y": 396
+          },
+          "timestamp": 1684979334420
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 665,
+            "y": 396
+          },
+          "timestamp": 1684979334425
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 668,
+            "y": 394
+          },
+          "timestamp": 1684979334429
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 670,
+            "y": 394
+          },
+          "timestamp": 1684979334434
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 672,
+            "y": 394
+          },
+          "timestamp": 1684979334437
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 674,
+            "y": 394
+          },
+          "timestamp": 1684979334441
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 677,
+            "y": 394
+          },
+          "timestamp": 1684979334445
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 678,
+            "y": 394
+          },
+          "timestamp": 1684979334451
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 680,
+            "y": 394
+          },
+          "timestamp": 1684979334454
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 682,
+            "y": 394
+          },
+          "timestamp": 1684979334461
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 683,
+            "y": 394
+          },
+          "timestamp": 1684979334465
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 684,
+            "y": 394
+          },
+          "timestamp": 1684979334475
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 685,
+            "y": 394
+          },
+          "timestamp": 1684979334479
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 686,
+            "y": 394
+          },
+          "timestamp": 1684979334483
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 687,
+            "y": 394
+          },
+          "timestamp": 1684979334489
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 688,
+            "y": 394
+          },
+          "timestamp": 1684979334504
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 689,
+            "y": 394
+          },
+          "timestamp": 1684979334552
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 690,
+            "y": 394
+          },
+          "timestamp": 1684979334564
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 690,
+            "y": 394
+          },
+          "timestamp": 1684979334644
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 690,
+            "y": 394
+          },
+          "timestamp": 1684979334833
+        },
+        {
+          "type": "click",
+          "button": 0,
+          "coordinates": {
+            "x": 690,
+            "y": 394
+          },
+          "timestamp": 1684979335041
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 694,
+            "y": 396
+          },
+          "timestamp": 1684979335591
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 700,
+            "y": 402
+          },
+          "timestamp": 1684979335595
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 706,
+            "y": 407
+          },
+          "timestamp": 1684979335600
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 712,
+            "y": 411
+          },
+          "timestamp": 1684979335604
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 717,
+            "y": 416
+          },
+          "timestamp": 1684979335608
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 721,
+            "y": 419
+          },
+          "timestamp": 1684979335613
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 724,
+            "y": 422
+          },
+          "timestamp": 1684979335617
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 728,
+            "y": 424
+          },
+          "timestamp": 1684979335621
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 730,
+            "y": 427
+          },
+          "timestamp": 1684979335625
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 732,
+            "y": 428
+          },
+          "timestamp": 1684979335630
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 733,
+            "y": 430
+          },
+          "timestamp": 1684979335634
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 734,
+            "y": 430
+          },
+          "timestamp": 1684979335639
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 734,
+            "y": 431
+          },
+          "timestamp": 1684979335643
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 733,
+            "y": 430
+          },
+          "timestamp": 1684979335724
+        },
+        {
+          "type": "mousemove",
+          "coordinates": {
+            "x": 732,
+            "y": 430
+          },
+          "timestamp": 1684979335728
+        }
+      ],
+      "keyboardActivity": [],
+      "idleTimes": [],
+      "session": {
+        "start": 1684979327848,
+        "page": "https://cse135ywszjmaz.site/",
+        "end": 1684979347797,
+        "duration": 19949
+      },
+      "id": 2
+    }
+  ],
+  "performance": [
+    {
+      "timing": {
+        "connectStart": 1684979041527,
+        "navigationStart": 1684979041516,
+        "secureConnectionStart": 1684979041596,
+        "fetchStart": 1684979041522,
+        "domContentLoadedEventStart": 1684979041923,
+        "responseStart": 1684979041750,
+        "domInteractive": 1684979041923,
+        "domainLookupEnd": 1684979041527,
+        "responseEnd": 1684979041751,
+        "redirectStart": 0,
+        "requestStart": 1684979041674,
+        "unloadEventEnd": 0,
+        "unloadEventStart": 0,
+        "domLoading": 1684979041753,
+        "domComplete": 1684979041993,
+        "domainLookupStart": 1684979041527,
+        "loadEventStart": 1684979041993,
+        "domContentLoadedEventEnd": 1684979041923,
+        "loadEventEnd": 1684979041993,
+        "redirectEnd": 0,
+        "connectEnd": 1684979041674
+      },
+      "pageLoadStart": 1684979041516,
+      "pageLoadEnd": 0,
+      "totalLoadTime": -1684979041516,
+      "id": 1
+    },
+    {
+      "timing": {
+        "connectStart": 1684979106933,
+        "navigationStart": 1684979106926,
+        "secureConnectionStart": 0,
+        "fetchStart": 1684979106933,
+        "domContentLoadedEventStart": 1684979107044,
+        "responseStart": 1684979106940,
+        "domInteractive": 1684979107044,
+        "domainLookupEnd": 1684979106933,
+        "responseEnd": 1684979106940,
+        "redirectStart": 0,
+        "requestStart": 1684979106939,
+        "unloadEventEnd": 0,
+        "unloadEventStart": 0,
+        "domLoading": 1684979106942,
+        "domComplete": 1684979107093,
+        "domainLookupStart": 1684979106933,
+        "loadEventStart": 1684979107093,
+        "domContentLoadedEventEnd": 1684979107044,
+        "loadEventEnd": 1684979107093,
+        "redirectEnd": 0,
+        "connectEnd": 1684979106933
+      },
+      "pageLoadStart": 1684979106926,
+      "pageLoadEnd": 0,
+      "totalLoadTime": -1684979106926,
+      "id": 2
+    },
+    {
+      "timing": {
+        "connectStart": 1684979150082,
+        "navigationStart": 1684979150033,
+        "secureConnectionStart": 1684979150151,
+        "fetchStart": 1684979150039,
+        "domContentLoadedEventStart": 1684979150562,
+        "responseStart": 1684979150320,
+        "domInteractive": 1684979150562,
+        "domainLookupEnd": 1684979150082,
+        "responseEnd": 1684979150347,
+        "redirectStart": 0,
+        "requestStart": 1684979150248,
+        "unloadEventEnd": 0,
+        "unloadEventStart": 0,
+        "domLoading": 1684979150349,
+        "domComplete": 1684979150682,
+        "domainLookupStart": 1684979150061,
+        "loadEventStart": 1684979150682,
+        "domContentLoadedEventEnd": 1684979150562,
+        "loadEventEnd": 1684979150682,
+        "redirectEnd": 0,
+        "connectEnd": 1684979150248
+      },
+      "pageLoadStart": 1684979150033,
+      "pageLoadEnd": 0,
+      "totalLoadTime": -1684979150033,
+      "id": 3
+    },
+    {
+      "timing": {
+        "connectStart": 1684979327494,
+        "navigationStart": 1684979327481,
+        "secureConnectionStart": 1684979327563,
+        "fetchStart": 1684979327486,
+        "domContentLoadedEventStart": 1684979327851,
+        "responseStart": 1684979327703,
+        "domInteractive": 1684979327851,
+        "domainLookupEnd": 1684979327494,
+        "responseEnd": 1684979327706,
+        "redirectStart": 0,
+        "requestStart": 1684979327633,
+        "unloadEventEnd": 0,
+        "unloadEventStart": 0,
+        "domLoading": 1684979327710,
+        "domComplete": 1684979327977,
+        "domainLookupStart": 1684979327494,
+        "loadEventStart": 1684979327977,
+        "domContentLoadedEventEnd": 1684979327852,
+        "loadEventEnd": 1684979327977,
+        "redirectEnd": 0,
+        "connectEnd": 1684979327633
+      },
+      "pageLoadStart": 1684979327481,
+      "pageLoadEnd": 0,
+      "totalLoadTime": -1684979327481,
+      "id": 4
+    }
+  ]
+}
