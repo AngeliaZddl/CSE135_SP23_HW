@@ -23,3 +23,22 @@ server.use(router);
 // server.use('/api/activity', activityRouter);
 
 server.listen(3000);
+
+var mysql = require('mysql');
+var express = require('express');
+var app = express();
+
+var connection = mysql.createConnection({
+  host: 'localhost',
+  port: 3306,
+  user: 'user',
+  password: '',
+  database: 'mydb'
+})
+
+app.get('/mydb', function(req, res) {  
+    connection.query(queryString, function(err, rows, fields) {    
+        if (err) throw err;    
+        res.send(rows);  
+    });
+});
